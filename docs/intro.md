@@ -2,46 +2,30 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Tutorial Penggunaan 
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Bagi **Reseller** atau **Mitra** yang ingin menggunakan layanan **Ebilling** silahkan melakukan pendaftaran akun melalui website **Ebilling**
 
-## Getting Started
+* Kunjungi Halaman Website [Ebilling GMDP](https://ebilling.gmdp.net.id/)
 
-Get started by **creating a new site**.
+<img src='https://github.com/GMDP-Developers/Billing-ISP/assets/52855068/8b6f030e-f22f-4ecb-944f-c3297ac1c166' width='800px' />
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+* Pilih **Daftar Akun**
 
-### What you'll need
+* Isi dan Lengkapi semua data informasi pada form pendaftaran akun
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+<img src='https://github.com/GMDP-Developers/Billing-ISP/assets/52855068/01b26dd7-e46f-4353-92d6-db21e0be989c' width='600px' />
 
-## Generate a new site
+* Contoh Pengisian Garis lintang, Silahkan cari alamat wilayah anda dengan menggunakan pencarian, dan pilih salah satu hasil dari wilayah tersebut. anda dapat menggeser point maps menggunakan mouse ke tempat dimana wilayan anda berada
 
-Generate a new Docusaurus site using the **classic template**.
+<img src='https://github.com/GMDP-Developers/Billing-ISP/assets/52855068/39df19cd-a741-4aae-af7a-e48f5e10a160' width='600px' />
 
-The classic template will automatically be added to your project after you run the command:
+* Pastikan Formulir Keanggotaan dan Dokumen Kesanggupan di isi dengan benar (Admin GMDP akan melakukan verifikasi secara manual, untuk memastikan bahwa akun yang didaftarkan benar benar milik Reseller atau Mitra GMDP)
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+<img src='https://github.com/GMDP-Developers/Billing-ISP/assets/52855068/cee2e7e3-28dc-4e2c-8501-cba896b53935' width='600px' />
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+* Jika anda merasa pengisian form sudah benar dan lengkap, silahkan klik Simpan
 
-The command also installs all necessary dependencies you need to run Docusaurus.
+* Admin GMDP akan memverifikasi dan mereview form yang anda kirimkan, silahkan tunggu maksimal 2x24 jam, dan anda dapat mencoba login menggunakan Username dan Password yang sebelumnya di daftarkan
 
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+* Jika akun anda belum kunjung di acc oleh Admin GMDP, anda dapat mengubungi Admin GMDP secara langsung untuk keperluan aktivasi akun Ebilling
