@@ -70,6 +70,12 @@ const config: Config = {
           position: 'left',
           label: 'Tutorial Sistem E-Billing',
         },
+        {
+          type: 'docSidebar',
+          sidebarId: 'ebillingReference',
+          position: 'left',
+          label: 'Referensi',
+        },
         // {to: '/blog', label: 'Blog', position: 'left'},
         {
           href: 'https://github.com/GMDP-Developers/Billing-ISP',
